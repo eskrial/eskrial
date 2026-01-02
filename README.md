@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hello there.
 
-<!--
-**eskrial/eskrial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What you’ll find here matters more than who I am — so let’s start with that.
 
-Here are some ideas to get you started:
+This GitHub profile contains small to medium‑sized hobby projects, experiments, and things I build out of curiosity or for learning purposes. Nothing huge or production‑grade is planned here (at least for now), but you’ll find a mix of practical tools, prototypes, and explorations across design and development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 What You Can Expect Here
+- Utility scripts and small tools
+- Web development experiments
+- Design concepts and prototypes
+
+### 🧩 About Me
+
+I studied design and programming, which means that I enjoy working at the interface between aesthetics, user-friendliness, and technical implementation.
+I am currently involved in setting up medical infrastructure, specifically configuring IT networks for medical practices and medical care centers.
+
+### 🛠️ Tech & Interests
+- Frontend: HTML, CSS, JavaScript, Astro, Vue.js
+- Design: CX/UX/UI, prototyping, Figma
+- Infrastructure: networking, server basics, IT security fundamentals
+I enjoy solving problems, building intuitive systems, and learning new technologies along the way.
